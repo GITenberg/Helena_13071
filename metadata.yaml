@@ -1,0 +1,33 @@
+_repo: Helena_13071
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ward, Humphry, Mrs.
+    aliases:
+    - Ward, Mrs. Humphry
+    - Ward, Mary Augusta Arnold
+    - Arnold, Mary Augusta
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '2629'
+    url: http://www.gutenberg.org/2009/agents/2629
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Young women -- Fiction'
+title: Helena
+url: http://www.gutenberg.org/ebooks/13071
